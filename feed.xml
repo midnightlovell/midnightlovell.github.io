@@ -31,6 +31,25 @@
       <googleplay:category text="Music" />
       <googleplay:explicit>Yes</googleplay:explicit>
       <item>
+         <title>juice wrld - lullabies</title>
+         <link>https://www.spreaker.com/user/12731475/lullabies</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39264742</guid>
+         <pubDate>Mon, 13 Jul 2020 03:20:19 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Lullabies.mp3" length="7481470" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>188</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/214f63828628ae07a173492a206aaa20.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/214f63828628ae07a173492a206aaa20.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
          <title>juice wrld &amp; kid cudi - good time</title>
          <link>https://www.spreaker.com/user/12731475/good-time-juice-x-cudi</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
