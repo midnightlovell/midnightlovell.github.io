@@ -2,16 +2,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
    <channel>
       <title>very rare, never scared</title>
-      <link>https://www.spreaker.com/show/very-rare-never-scared</link>
+      <link>https://discord.gg/uAA326z</link>
       <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-      <atom:link href="https://www.spreaker.com/show/4348793/episodes/feed" rel="self" type="application/rss+xml" />
+      <atom:link href="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/feed.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
       <category>Music</category>
       <copyright>Copyright rareslit</copyright>
       <image>
          <url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d150bc59bea28ba8cb798b53e3e7006d.jpg</url>
          <title>very rare, never scared</title>
-         <link>https://www.spreaker.com/show/very-rare-never-scared</link>
+         <link>https://discord.gg/uAA326z</link>
       </image>
       <itunes:author>rareslit</itunes:author>
       <itunes:owner>
@@ -31,136 +31,421 @@
       <googleplay:category text="Music" />
       <googleplay:explicit>Yes</googleplay:explicit>
       <item>
-         <title>juice wrld - man of the year</title>
-         <link>https://www.spreaker.com/user/12731475/moty</link>
+         <title>juice wrld &amp; young thug - waves/v's on the sosa</title>
+         <link>https://www.spreaker.com/user/12731475/jw-yt-oceans</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/37940571</guid>
-         <pubDate>Thu, 09 Jul 2020 06:57:01 +0000</pubDate>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39857339</guid>
+         <pubDate>Mon, 20 Jul 2020 03:50:42 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/JW_-_YT_-_Oceans.mp3" length="8047152" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>202</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c1a7538f8766262573f796daf78cfd50.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c1a7538f8766262573f796daf78cfd50.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>lil uzi vert &amp; doeboy - lowkey</title>
+         <link>https://www.spreaker.com/user/12731475/lil-uzi-vert-x-doeboy-lowkey</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39856672</guid>
+         <pubDate>Mon, 20 Jul 2020 02:07:58 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Lil%20Uzi%20Vert%20x%20Doeboy%20-%20Lowkey.mp3" length="7538981" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>189</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/238b4664b978151ccfd2c8b3dc683cc8.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/238b4664b978151ccfd2c8b3dc683cc8.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>ski mask - what u know</title>
+         <link>https://www.spreaker.com/user/12731475/ski-mask-what-u-know</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39842985</guid>
+         <pubDate>Sun, 19 Jul 2020 06:40:30 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Ski%20Mask%20-%20What%20U%20Know.mp3" length="4176458" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>105</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8fd38a979f94fac59c0fcb370abb5eab.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8fd38a979f94fac59c0fcb370abb5eab.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>playboi carti &amp; gunna - monday thru sunday</title>
+         <link>https://www.spreaker.com/user/12731475/monday-thru-sunday</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39841650</guid>
+         <pubDate>Sun, 19 Jul 2020 02:45:17 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Monday%20Thru%20Sunday.mp3" length="5388844" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>225</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/eb48225494c516d20305a2c515f1d0b3.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/eb48225494c516d20305a2c515f1d0b3.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>playboi carti - cancun</title>
+         <link>https://www.spreaker.com/user/12731475/cancun-playboi-carti</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39841605</guid>
+         <pubDate>Sun, 19 Jul 2020 02:34:14 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Cancun%20-%20Playboi%20Carti.mp3" length="6049479" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>143</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bcb3ef3743966fb157b28412459ee08e.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bcb3ef3743966fb157b28412459ee08e.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>tyfontaine - message</title>
+         <link>https://www.spreaker.com/user/12731475/tyfontaine-message</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39841549</guid>
+         <pubDate>Sun, 19 Jul 2020 02:26:30 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/TyFontaine%20-%20Message.mp3" length="2846301" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>89</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/485275a2843942fa0a54690bcfc5fd21.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/485275a2843942fa0a54690bcfc5fd21.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>pop smoke &amp; fivio foreign - showin off</title>
+         <link>https://www.spreaker.com/user/12731475/showin-off</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39825022</guid>
+         <pubDate>Sat, 18 Jul 2020 00:05:47 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Showin_Off.mp3" length="7709009" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>193</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cc274304bdc7fb006dc903db588c1d9c.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cc274304bdc7fb006dc903db588c1d9c.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>pnb rock - nemo</title>
+         <link>https://www.spreaker.com/user/12731475/pnb-rock-nemo</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39818216</guid>
+         <pubDate>Fri, 17 Jul 2020 17:41:53 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/PnB%20Rock%20-%20Nemo.mp3" length="7964843" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>200</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a4bc1d9de899d84714d16322b3bb19a1.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a4bc1d9de899d84714d16322b3bb19a1.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>pop smoke - iced out</title>
+         <link>https://www.spreaker.com/user/12731475/audio-9619</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39817802</guid>
+         <pubDate>Fri, 17 Jul 2020 17:38:30 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/AUDIO_9619.mp3" length="4255050" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>178</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/66cd799290590166cd25228930fb4961.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/66cd799290590166cd25228930fb4961.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>juice wrld - man of the year (og)</title>
+         <link>https://www.spreaker.com/user/12731475/moty_1</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39803255</guid>
+         <pubDate>Thu, 16 Jul 2020 22:02:58 +0000</pubDate>
          <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/MOTY.mp3" length="5548860" type="audio/mpeg" />
          <itunes:author>rareslit</itunes:author>
          <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
          <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
          <itunes:duration>139</itunes:duration>
          <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1771a84bd632569614c637a2012e05c9.jpg" />
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/55514f42e4eb97a162fc1aceb886641f.jpg" />
          <itunes:episodeType>full</itunes:episodeType>
          <googleplay:author>rareslit</googleplay:author>
          <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/1771a84bd632569614c637a2012e05c9.jpg" />
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/55514f42e4eb97a162fc1aceb886641f.jpg" />
          <googleplay:explicit>Yes</googleplay:explicit>
       </item>
       <item>
-         <title>juice wrld - fighting demons</title>
-         <link>https://www.spreaker.com/user/12731475/jw-fighting-demons</link>
+         <title>young thug &amp; rae sremmurd - drip splash</title>
+         <link>https://www.spreaker.com/user/12731475/russ-x-angels-demons</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/37931498</guid>
-         <pubDate>Thu, 09 Jul 2020 06:37:18 +0000</pubDate>
-         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/JW%20-%20FIGHTING%20DEMONS.mp3" length="8170056" type="audio/mpeg" />
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39802918</guid>
+         <pubDate>Thu, 16 Jul 2020 21:51:00 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/russ%20x%20angels%20%26%20demons.mp3" length="9354085" type="audio/mpeg" />
          <itunes:author>rareslit</itunes:author>
          <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
          <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
-         <itunes:duration>205</itunes:duration>
+         <itunes:duration>234</itunes:duration>
          <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bcbb7823268c121828f1bd34b04a0ba8.jpg" />
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/43bc347323b1a64c9bcbf1570285cd02.jpg" />
          <itunes:episodeType>full</itunes:episodeType>
          <googleplay:author>rareslit</googleplay:author>
          <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/bcbb7823268c121828f1bd34b04a0ba8.jpg" />
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/43bc347323b1a64c9bcbf1570285cd02.jpg" />
          <googleplay:explicit>Yes</googleplay:explicit>
       </item>
       <item>
-         <title>juice wrld - i cant die</title>
-         <link>https://www.spreaker.com/user/12731475/jw-i-cant-die</link>
+         <title>lil baby &amp; lil durk - project baby</title>
+         <link>https://www.spreaker.com/user/12731475/lil-baby-x-lil-durk-project-baby</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/37931069</guid>
-         <pubDate>Thu, 09 Jul 2020 06:36:51 +0000</pubDate>
-         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/JW%20-%20I%20CANT%20DIE.mp3" length="7341452" type="audio/mpeg" />
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39771904</guid>
+         <pubDate>Wed, 15 Jul 2020 04:14:19 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Lil%20Baby%20x%20Lil%20Durk%20-%20Project%20Baby.mp3" length="8605737" type="audio/mpeg" />
          <itunes:author>rareslit</itunes:author>
          <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
          <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
-         <itunes:duration>184</itunes:duration>
+         <itunes:duration>216</itunes:duration>
          <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ac86e8141ee3de34dee53d88573935d0.jpg" />
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7bcff34870f53605c71e553f83563b24.jpg" />
          <itunes:episodeType>full</itunes:episodeType>
          <googleplay:author>rareslit</googleplay:author>
          <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ac86e8141ee3de34dee53d88573935d0.jpg" />
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7bcff34870f53605c71e553f83563b24.jpg" />
          <googleplay:explicit>Yes</googleplay:explicit>
       </item>
       <item>
-         <title>juice wrld - up and away</title>
-         <link>https://www.spreaker.com/user/12731475/jw-up-and-away</link>
+         <title>don toliver w/ gunna &amp; nav - lemonade</title>
+         <link>https://www.spreaker.com/user/12731475/don-toliver-ft-gunna-nav-lemonade-www-bi</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/37929624</guid>
-         <pubDate>Thu, 09 Jul 2020 06:32:33 +0000</pubDate>
-         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/JW-UP%20AND%20AWAY.mp3" length="5953920" type="audio/mpeg" />
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39764145</guid>
+         <pubDate>Wed, 15 Jul 2020 00:49:56 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/1-17%20Lemonade%20(feat.%20Gunna%20%26%20Nav).m4a" length="10027534" type="audio/mpeg" />
          <itunes:author>rareslit</itunes:author>
          <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
          <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
-         <itunes:duration>149</itunes:duration>
+         <itunes:duration>251</itunes:duration>
          <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/beccae6ed8be0146f0c1319a271930dd.jpg" />
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e6dd66c29aeb3d99d9dc05b9daf1d243.jpg" />
          <itunes:episodeType>full</itunes:episodeType>
          <googleplay:author>rareslit</googleplay:author>
          <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/beccae6ed8be0146f0c1319a271930dd.jpg" />
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e6dd66c29aeb3d99d9dc05b9daf1d243.jpg" />
          <googleplay:explicit>Yes</googleplay:explicit>
       </item>
       <item>
-         <title>juice wrld - blood on my jeans</title>
-         <link>https://www.spreaker.com/user/12731475/jw-blood-on-my-jeans</link>
+         <title>smokepurpp - 4runners</title>
+         <link>https://www.spreaker.com/user/12731475/4runners-beat-smokepurp-v1</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/37929528</guid>
-         <pubDate>Thu, 09 Jul 2020 06:18:51 +0000</pubDate>
-         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/JW_-_BLOOD_ON_MY_JEANS.mp3" length="6202513" type="audio/mpeg" />
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39610257</guid>
+         <pubDate>Tue, 14 Jul 2020 06:20:21 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/4RUNNERS%20BEAT%20-%20SMOKEPURP%20V1.mp3" length="7303888" type="audio/mpeg" />
          <itunes:author>rareslit</itunes:author>
          <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
          <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
-         <itunes:duration>156</itunes:duration>
+         <itunes:duration>183</itunes:duration>
          <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e275319684e3734bda00f0c47e59d6ea.jpg" />
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d3deaaa0deeb8fada70314715d756e6f.jpg" />
          <itunes:episodeType>full</itunes:episodeType>
          <googleplay:author>rareslit</googleplay:author>
          <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e275319684e3734bda00f0c47e59d6ea.jpg" />
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d3deaaa0deeb8fada70314715d756e6f.jpg" />
          <googleplay:explicit>Yes</googleplay:explicit>
       </item>
       <item>
-         <title>juice wrld &amp; halsey - i want it</title>
-         <link>https://www.spreaker.com/user/12731475/jw-i-want-it-ft-halsey</link>
+         <title>roddy ricch - eyes on me</title>
+         <link>https://www.spreaker.com/user/12731475/eyes-on-me-edit</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/37924458</guid>
-         <pubDate>Thu, 09 Jul 2020 06:15:55 +0000</pubDate>
-         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/JW-I%20WANT%20IT%20FT%20HALSEY.mp3" length="7017533" type="audio/mpeg" />
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39527419</guid>
+         <pubDate>Mon, 13 Jul 2020 23:48:16 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Eyes%20On%20Me%20%5BEdit%5D.m4a" length="1543940" type="audio/mpeg" />
          <itunes:author>rareslit</itunes:author>
          <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
          <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
-         <itunes:duration>176</itunes:duration>
+         <itunes:duration>97</itunes:duration>
          <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/45e95f0875a70c3d62c4489e77990bd5.jpg" />
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cea8361e2b53fcf460a85ad3786949af.jpg" />
          <itunes:episodeType>full</itunes:episodeType>
          <googleplay:author>rareslit</googleplay:author>
          <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/45e95f0875a70c3d62c4489e77990bd5.jpg" />
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cea8361e2b53fcf460a85ad3786949af.jpg" />
          <googleplay:explicit>Yes</googleplay:explicit>
       </item>
       <item>
-         <title>juice wrld w/ polo g &amp; kid laroi - otherside</title>
-         <link>https://www.spreaker.com/user/12731475/jw-otherside-feat-polo-g-and-kid-laroi</link>
+         <title>juice wrld - new girl</title>
+         <link>https://www.spreaker.com/user/12731475/juice-wrld-new-girl</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/37924336</guid>
-         <pubDate>Thu, 09 Jul 2020 06:12:02 +0000</pubDate>
-         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/JW%20-%20OTHERSIDE%20FEAT%20POLO%20G%20AND%20KID%20LAROI.mp3" length="6594350" type="audio/mpeg" />
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39527410</guid>
+         <pubDate>Mon, 13 Jul 2020 23:47:05 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Juice%20WRLD%20-%20New%20Girl.mp3" length="5153437" type="audio/mpeg" />
          <itunes:author>rareslit</itunes:author>
          <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
          <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
-         <itunes:duration>165</itunes:duration>
+         <itunes:duration>129</itunes:duration>
          <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b2ee8651e17d0f47b5210f48988c35a.jpg" />
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8f983616faf1f621b4711696a9780177.jpg" />
          <itunes:episodeType>full</itunes:episodeType>
          <googleplay:author>rareslit</googleplay:author>
          <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3b2ee8651e17d0f47b5210f48988c35a.jpg" />
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8f983616faf1f621b4711696a9780177.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>juice wrld - lullabies</title>
+         <link>https://www.spreaker.com/user/12731475/lullabies</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39264742</guid>
+         <pubDate>Mon, 13 Jul 2020 03:20:19 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Lullabies.mp3" length="7481470" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>188</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/214f63828628ae07a173492a206aaa20.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/214f63828628ae07a173492a206aaa20.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>juice wrld &amp; kid cudi - good time</title>
+         <link>https://www.spreaker.com/user/12731475/good-time-juice-x-cudi</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39188826</guid>
+         <pubDate>Sun, 12 Jul 2020 21:43:27 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Good%20Time%20Juice%20x%20Cudi.mp3" length="9287053" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>233</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cf0b0c503e87cd024331fc1ac96fa6f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4cf0b0c503e87cd024331fc1ac96fa6f.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>offset - stuck</title>
+         <link>https://www.spreaker.com/user/12731475/offset-stuck-x-southside-1</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39115566</guid>
+         <pubDate>Sun, 12 Jul 2020 18:09:33 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/OFFSET%20-%20STUCK%20x%20SOUTHSIDE%201.mp3" length="6292636" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>151</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9d0e3c8fa6c364f4ded91a43b8b5aa0f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9d0e3c8fa6c364f4ded91a43b8b5aa0f.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>ski mask &amp; lil pump - tie my shoe</title>
+         <link>https://www.spreaker.com/user/12731475/ski-mask-the-slump-god-x-lil-pump-tie-my</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39115565</guid>
+         <pubDate>Sun, 12 Jul 2020 18:09:10 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/SKI%20MASK%20THE%20SLUMP%20GOD%20x%20LIL%20PUMP%20-%20TIE%20MY%20SHOE.mp3" length="5136762" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>129</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ab29deff85c2d019eba0a2e42d38bf0d.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ab29deff85c2d019eba0a2e42d38bf0d.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>lil uzi - miss cleo</title>
+         <link>https://www.spreaker.com/user/12731475/64-miss-cleo</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39115564</guid>
+         <pubDate>Sun, 12 Jul 2020 18:08:46 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/64%20-%20Miss%20Cleo.m4a" length="3686399" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>231</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a1a5a04fab65f3f8ea3fdced9bfaf1b7.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a1a5a04fab65f3f8ea3fdced9bfaf1b7.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>lil uzi - mission to the loot</title>
+         <link>https://www.spreaker.com/user/12731475/uzi-cannon-mission-to-the-loot-1</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/38529235</guid>
+         <pubDate>Sat, 11 Jul 2020 05:50:34 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Uzi_Cannon_Mission_To_The_Loot_1.mp3" length="7398911" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>185</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/deacfab84d341131e9c32037e4b2cd51.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/deacfab84d341131e9c32037e4b2cd51.jpg" />
          <googleplay:explicit>Yes</googleplay:explicit>
       </item>
       <item>
@@ -180,44 +465,6 @@
          <googleplay:author>rareslit</googleplay:author>
          <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
          <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/51451fc8d486b1da3d9b71fe984b2b59.jpg" />
-         <googleplay:explicit>Yes</googleplay:explicit>
-      </item>
-      <item>
-         <title>madeintyo &amp; a$ap ferg - square bitch</title>
-         <link>https://www.spreaker.com/user/12731475/madeintyo-square-bitch-feat-a-ap-ferg</link>
-         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/37533019</guid>
-         <pubDate>Wed, 08 Jul 2020 05:19:19 +0000</pubDate>
-         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/MadeinTYO%20-%20Square%20Bitch%20(feat.%20A%24AP%20Ferg).mp3" length="7461324" type="audio/mpeg" />
-         <itunes:author>rareslit</itunes:author>
-         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
-         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
-         <itunes:duration>183</itunes:duration>
-         <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7f8d8ddfedcea5f7985f575449825c94.jpg" />
-         <itunes:episodeType>full</itunes:episodeType>
-         <googleplay:author>rareslit</googleplay:author>
-         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7f8d8ddfedcea5f7985f575449825c94.jpg" />
-         <googleplay:explicit>Yes</googleplay:explicit>
-      </item>
-      <item>
-         <title>juice wrld - conversations</title>
-         <link>https://www.spreaker.com/user/12731475/conversations</link>
-         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/37314336</guid>
-         <pubDate>Tue, 07 Jul 2020 19:29:21 +0000</pubDate>
-         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/JW%20-%20CONVERSATIONS.mp3" length="3279288" type="audio/mpeg" />
-         <itunes:author>rareslit</itunes:author>
-         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
-         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
-         <itunes:duration>205</itunes:duration>
-         <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25749bb62bd94c79fb3241cbbed34281.jpg" />
-         <itunes:episodeType>full</itunes:episodeType>
-         <googleplay:author>rareslit</googleplay:author>
-         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/25749bb62bd94c79fb3241cbbed34281.jpg" />
          <googleplay:explicit>Yes</googleplay:explicit>
       </item>
       <item>
@@ -1506,25 +1753,6 @@
          <googleplay:author>rareslit</googleplay:author>
          <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
          <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/3c1a404dbbc3f677104979f5fa017890.jpg" />
-         <googleplay:explicit>Yes</googleplay:explicit>
-      </item>
-      <item>
-         <title>juice wrld - bad energy</title>
-         <link>https://www.spreaker.com/user/12463043/jw-bad-energy</link>
-         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-         <guid isPermaLink="false">https://api.spreaker.com/episode/28110566</guid>
-         <pubDate>Sat, 23 May 2020 05:41:12 +0000</pubDate>
-         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/JW_-_Bad_Energy.mp3" length="7792849" type="audio/mpeg" />
-         <itunes:author>rareslit</itunes:author>
-         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
-         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
-         <itunes:duration>195</itunes:duration>
-         <itunes:explicit>yes</itunes:explicit>
-         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa751b3bcfe441533432451ed877772a.jpg" />
-         <itunes:episodeType>full</itunes:episodeType>
-         <googleplay:author>rareslit</googleplay:author>
-         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
-         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/aa751b3bcfe441533432451ed877772a.jpg" />
          <googleplay:explicit>Yes</googleplay:explicit>
       </item>
       <item>
