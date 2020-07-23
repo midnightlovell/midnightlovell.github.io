@@ -4,12 +4,12 @@
       <title>very rare, never scared</title>
       <link>https://discord.gg/uAA326z</link>
       <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-      <atom:link href="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/feed%20(1).xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/feeds.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
       <category>Music</category>
       <copyright>Copyright rareslit</copyright>
       <image>
-         <url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d150bc59bea28ba8cb798b53e3e7006d.jpg</url>
+         <url>https://cdn.discordapp.com/attachments/187731872090947585/735028793672073336/image0.jpg</url>
          <title>very rare, never scared</title>
          <link>https://discord.gg/uAA326z</link>
       </image>
@@ -18,18 +18,56 @@
          <itunes:name>rareslit</itunes:name>
          <itunes:email>foe@reborn.com</itunes:email>
       </itunes:owner>
-      <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d150bc59bea28ba8cb798b53e3e7006d.jpg" />
+      <itunes:image href="https://cdn.discordapp.com/attachments/187731872090947585/735028793672073336/image0.jpg" />
       <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
       <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
       <itunes:category text="Music" />
       <itunes:explicit>yes</itunes:explicit>
       <itunes:type>episodic</itunes:type>
       <googleplay:author>rareslit</googleplay:author>
-      <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d150bc59bea28ba8cb798b53e3e7006d.jpg" />
-      <googleplay:email>earf@mail.com</googleplay:email>
+      <googleplay:image href="https://cdn.discordapp.com/attachments/187731872090947585/735028793672073336/image0.jpg" />
+      <googleplay:email>foe@reborn.com</googleplay:email>
       <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
       <googleplay:category text="Music" />
       <googleplay:explicit>Yes</googleplay:explicit>
+      <item>
+         <title>lil uzi &amp; gunna - valentino</title>
+         <link>https://www.spreaker.com/user/12731475/4-15-valentino-feat-gunna</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39891066</guid>
+         <pubDate>Wed, 22 Jul 2020 00:27:39 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/4-15%20Valentino%20(feat.%20Gunna).m4a" length="3571460" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>224</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e6f105c34dbe7af8aee9b301381f019f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e6f105c34dbe7af8aee9b301381f019f.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
+         <title>playboi carti - check please</title>
+         <link>https://www.spreaker.com/user/12731475/playboi-carti-check-please-hugh-hefner-t</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39891070</guid>
+         <pubDate>Wed, 22 Jul 2020 00:27:10 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Playboi%20Carti%20-%20Check%20Please%20(Hugh%20Hefner%20Tribute).mp3" length="8831309" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>218</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/83e051e31230550db2f16250cc6a1c4d.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/83e051e31230550db2f16250cc6a1c4d.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
       <item>
          <title>juice wrld &amp; young thug - waves/v's on the sosa</title>
          <link>https://www.spreaker.com/user/12731475/jw-yt-oceans</link>
