@@ -31,6 +31,25 @@
       <googleplay:category text="Music" />
       <googleplay:explicit>Yes</googleplay:explicit>
       <item>
+         <title>juice wrld - i dont know</title>
+         <link>https://www.spreaker.com/user/12731475/i-dont-know</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/39970711</guid>
+         <pubDate>Sat, 25 Jul 2020 03:38:42 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/I%20Dont%20Know.mp3" length="7230694" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>181</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d2e66382690bb9d351e0eab84b3e0595.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d2e66382690bb9d351e0eab84b3e0595.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
          <title>trippie redd - find my chill</title>
          <link>https://www.spreaker.com/user/12731475/trippie-redd-find-my-chill</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
