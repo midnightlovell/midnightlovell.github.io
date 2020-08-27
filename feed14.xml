@@ -31,6 +31,25 @@
       <googleplay:category text="Music" />
       <googleplay:explicit>Yes</googleplay:explicit>
       <item>
+         <title>playboi carti - i walk in</title>
+         <link>https://www.spreaker.com/user/12731475/lobby-v2</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/40508837</guid>
+         <pubDate>Thu, 27 Aug 2020 02:36:53 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/lobby%20v2%20.mp3" length="8306192" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>208</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/21334762d5e0aaf16295cd4e05c5a2de.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/21334762d5e0aaf16295cd4e05c5a2de.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
          <title>juice wrld - for the taking</title>
          <link>https://www.spreaker.com/user/12731475/juice-wrld-for-the-taking-v1-0-gz-euros-</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
