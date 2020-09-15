@@ -2,21 +2,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
    <channel>
       <title>VRNS: Opps Edition</title>
-      <link>https://reborn.com/g</link>
+      <link>https://null.net/g</link>
       <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
-      <atom:link href="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/feed6.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/feed21.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
       <category>Music</category>
       <copyright>Copyright rareslit</copyright>
       <image>
          <url>https://cdn.discordapp.com/attachments/406076396113494027/737911013911035977/redredredd.png</url>
          <title>VRNS: Opps Edition</title>
-         <link>https://reborn.com/g</link>
+         <link>https://null.net/g</link>
       </image>
       <itunes:author>rareslit</itunes:author>
       <itunes:owner>
          <itunes:name>rareslit</itunes:name>
-         <itunes:email>foe@reborn.com</itunes:email>
+         <itunes:email>splash@null.net</itunes:email>
       </itunes:owner>
       <itunes:image href="https://cdn.discordapp.com/attachments/406076396113494027/737911013911035977/redredredd.png" />
       <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
