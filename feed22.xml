@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+   <channel>
+      <title>very rare, never scared</title>
+      <link>https://reborn.com/j</link>
+      <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+      <atom:link href="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/feed13.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <category>Music</category>
+      <copyright>Copyright rareslit</copyright>
+      <image>
+         <url>https://cdn.discordapp.com/attachments/187731872090947585/735028793672073336/image0.jpg</url>
+         <title>very rare, never scared</title>
+         <link>https://reborn.com/j</link>
+      </image>
+      <itunes:author>rareslit</itunes:author>
+      <itunes:owner>
+         <itunes:name>rareslit</itunes:name>
+         <itunes:email>foe@reborn.com</itunes:email>
+      </itunes:owner>
+      <itunes:image href="https://cdn.discordapp.com/attachments/187731872090947585/735028793672073336/image0.jpg" />
+      <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+      <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+      <itunes:category text="Music" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:type>episodic</itunes:type>
+      <googleplay:author>rareslit</googleplay:author>
+      <googleplay:image href="https://cdn.discordapp.com/attachments/187731872090947585/735028793672073336/image0.jpg" />
+      <googleplay:email>foe@reborn.com</googleplay:email>
+      <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+      <googleplay:category text="Music" />
+      <googleplay:explicit>Yes</googleplay:explicit>
+      <item>
+         <title>smokepurpp - no problem ft. kanye</title>
+         <link>https://www.spreaker.com/user/drip/smokepurpp-no-problem-feat-kanye-west</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/25961126</guid>
+         <pubDate>Thu, 23 Apr 2020 15:35:10 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Smokepurpp%20-%20No%20Problem%20feat.%20Kanye%20West.mp3" length="5692674" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>143</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cbaed895e93ac23f563d0827ded43995.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/cbaed895e93ac23f563d0827ded43995.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+   </channel>
+</rss>
