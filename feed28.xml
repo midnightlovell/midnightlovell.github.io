@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
    <channel>
       <title>very rare, never scared</title>
-      <link>https://reborn.com/l</link>
+      <link>https://reborn.com/n</link>
       <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
       <atom:link href="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/feed13.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
@@ -11,7 +11,7 @@
       <image>
          <url>https://cdn.discordapp.com/attachments/187731872090947585/735028793672073336/image0.jpg</url>
          <title>very rare, never scared</title>
-         <link>https://reborn.com/l</link>
+         <link>https://reborn.com/n</link>
       </image>
       <itunes:author>rareslit</itunes:author>
       <itunes:owner>
@@ -30,5 +30,24 @@
       <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
       <googleplay:category text="Music" />
       <googleplay:explicit>Yes</googleplay:explicit>
+      <item>
+         <title>quin nfn &amp; nle choppa - the man</title>
+         <link>https://www.instagram.com/rareslit/quin-nfn-nle-choppa-the-man</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://www.instagram.com/rareslit/40918347</guid>
+         <pubDate>Tue, 15 Sep 2020 19:08:52 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Synth%20-%20Daring.wav" length="4794964" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>200</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18265a5ecac2570304302c39440acb06.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/18265a5ecac2570304302c39440acb06.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
    </channel>
 </rss>
