@@ -31,6 +31,25 @@
       <googleplay:category text="Music" />
       <googleplay:explicit>Yes</googleplay:explicit>
       <item>
+         <title>lil uzi - nothing</title>
+         <link>https://www.spreaker.com/user/12731475/lil-uzi-vert-nothing</link>
+         <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
+         <guid isPermaLink="false">https://api.spreaker.com/episode/41730168</guid>
+         <pubDate>Sat, 31 Oct 2020 08:26:49 +0000</pubDate>
+         <enclosure url="https://github.com/midnightlovell/midnightlovell.github.io/raw/master/Lil%20Uzi%20Vert%20-%20Nothing.mp3" length="8644510" type="audio/mpeg" />
+         <itunes:author>rareslit</itunes:author>
+         <itunes:subtitle>instagram: @rareslit - discord server: discord.gg/uAA326z</itunes:subtitle>
+         <itunes:summary><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></itunes:summary>
+         <itunes:duration>217</itunes:duration>
+         <itunes:explicit>yes</itunes:explicit>
+         <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8d5dbee31970a3a8bd450795a586f66f.jpg" />
+         <itunes:episodeType>full</itunes:episodeType>
+         <googleplay:author>rareslit</googleplay:author>
+         <googleplay:description>instagram: @rareslit - discord server: discord.gg/uAA326z</googleplay:description>
+         <googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/8d5dbee31970a3a8bd450795a586f66f.jpg" />
+         <googleplay:explicit>Yes</googleplay:explicit>
+      </item>
+      <item>
          <title>quin nfn &amp; nle choppa - the man</title>
          <link>https://www.instagram.com/rareslit/quin-nfn-nle-choppa-the-man</link>
          <description><![CDATA[instagram: @rareslit - discord server: discord.gg/uAA326z]]></description>
